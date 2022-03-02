@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_flow/Homework_petlaforfarenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_petlaforfarenheit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
