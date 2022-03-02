@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_petlaforfarenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_petlaforfarenheit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Homework_petlaforfarenheit">
-    <configuration name="Homework_02_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework_Zad4_gra">
+    <configuration name="Homework_Zad4_gra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_variables/Homework_02_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework_petlaforfarenheit" />
-        <item itemvalue="Python.zad_33" />
-        <item itemvalue="Python.farnheit_while" />
-        <item itemvalue="Python.Homework_02_5" />
+        <item itemvalue="Python.Homework_Zad4_gra" />
         <item itemvalue="Python.Homework_Zad8" />
+        <item itemvalue="Python.Homework_petlaforfarenheit" />
+        <item itemvalue="Python.farnheit_while" />
+        <item itemvalue="Python.zad_33" />
       </list>
     </recent_temporary>
   </component>
