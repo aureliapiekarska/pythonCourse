@@ -22,13 +22,12 @@ elif (num_2 < num_3) and (num_2 < num_1):
 else:
     lowest = num_3
 
-if (num_2 > num_1 ) and (num_2 < num_3):
-    middle = num_2
-elif(num_3 > num_1) and (num_1 < num_2):
+if not(num_1 == largest) and not(num_1 == lowest):
     middle = num_1
+elif not(num_2 == largest) and not(num_2 == lowest):
+    middle = num_2
 else:
-    middle =num_3
-
+    middle = num_3
 
 
 print ('Kolejno', largest, middle, lowest)
