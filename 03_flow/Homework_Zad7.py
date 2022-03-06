@@ -1,6 +1,6 @@
 # bmi
-weight = int(input('Podaj wage(kg):'))
-height = int(input('Podaj wzrost (cm):'))
+weight = float(input('Podaj wage(kg):'))
+height = float(input('Podaj wzrost (cm):'))
 p = range(18,25)
 BMI = (weight / height**2) * 10000
 print("Moje BMI", BMI)

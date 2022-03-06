@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_flow/Homework_Zad7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_flow/Homework_game5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_flow/Homework_petla_while_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_flow/Homework_range_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/bmi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_flow/Homework_zad4.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_zad4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_Zad7.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_Zad7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_range_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_range_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +42,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Homework_Zad7">
-    <configuration name="Homework_Zad4_gra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework_game5">
+    <configuration name="Homewor_petla_while_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zad4_gra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homewor_petla_while_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_Zad7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_Zadanie_2petlawhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zad7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zadanie_2petlawhile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_game5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_game5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_game4_full" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="petla_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_game4_full.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/petla_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="price_petla_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_zad4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/price_petla_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework_Zad7" />
-        <item itemvalue="Python.Homework_game4_full" />
-        <item itemvalue="Python.Homework_zad4" />
-        <item itemvalue="Python.Homework_Zad4_gra" />
-        <item itemvalue="Python.Homework_game" />
+        <item itemvalue="Python.Homework_game5" />
+        <item itemvalue="Python.Homewor_petla_while_2" />
+        <item itemvalue="Python.Homework_Zadanie_2petlawhile" />
+        <item itemvalue="Python.petla_for" />
+        <item itemvalue="Python.price_petla_while" />
       </list>
     </recent_temporary>
   </component>
