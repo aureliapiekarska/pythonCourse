@@ -1,6 +1,5 @@
 # zad4 if
 var_1 = 'dhfhasfb342'
-b = 'a'
 if len(var_1) > 5:
     print('zmienna dluzsza niz 5 znakow')
 if var_1.count('a'):
