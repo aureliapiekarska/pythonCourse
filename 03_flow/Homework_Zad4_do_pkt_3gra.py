@@ -1,5 +1,6 @@
 # gra
 import random
+
 opt = ['papier', 'kamien', 'nozyce']
 figure = input('Papier, kamien, nozyce, podaj jedna figure:')
 com = (random.choice(opt))
@@ -26,7 +27,20 @@ elif (figure == 'kamien') and (com == 'nozyce'):
 elif (figure == 'nozyce') and (com == 'kamien'):
     score_c = score_c + 1
     print('wygrywa komp')
-else:
+elif (figure == 'nozyce') and (com == 'nozyce'):
+    score_c = score_c
     print('remis')
+elif (figure == 'papier') and (com == 'papier'):
+    score_c = score_c
+    print('remis')
+elif (figure == 'kamien') and (com == 'kamien'):
+    score_c = score_c
+    print('remis')
+else:
+    print('error')
+
+
 
 print('Masz:', score_p, 'Komputer:', score_c)
+
+
