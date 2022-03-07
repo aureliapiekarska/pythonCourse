@@ -1,10 +1,11 @@
 import random
-r_1 = int(input('podaj liczbe rund'))
+r_1 = 6
 n = random.randint(1, 100)
 win = n
 guess = int(input('Wpisz liczbe 1 do 100'))
-while n != "guess":
-    print
+
+
+while n != guess:
     if guess < win:
         print('Zimno')
         guess = int(input('Wpisz ponownie liczbe od 1 do 100: '))
@@ -15,7 +16,15 @@ while n != "guess":
         print('Cieplo')
     elif guess == win + 10:
         print('Cieplo')
-    else:
-        print('zgadles')
+    if win == guess:
+        print('wygrales'),
         break
-    print
+
+
+
+
+
+
+
+
+
