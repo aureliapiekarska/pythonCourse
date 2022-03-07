@@ -1,3 +1,4 @@
+#Pozwól użytkownikowi wprowadzić dowoln......
 names = input('Podaj imiona tak, aby przed nowym i po kazdym imieniu byla spacja?')
 names.split(' ')
 for index in names:
