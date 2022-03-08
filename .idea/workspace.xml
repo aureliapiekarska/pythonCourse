@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_flow/Homework_Zad2_podsum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Homework_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Krotka_zad_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad1_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad1_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad3_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad_3_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/Zad_5_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/list_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/list_col_arr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_/range_lista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_flow/Homework_Zad_1_podsumowujace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_Zad_1_podsumowujace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +53,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Homework_zad3_podsumowujace">
-    <configuration name="Homework_Zad2_podsum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework_2">
+    <configuration name="Homework_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zad2_podsum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_/Homework_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_zad3_podsumowujace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_/Zad3_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zad_1_podsumowujace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad3_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Zad_1_podsumowujace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_/Zad3_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="petla_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad_5_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/petla_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_/Zad_5_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="r_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_col_arr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/r_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_/list_col_arr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework_zad3_podsumowujace" />
-        <item itemvalue="Python.Homework_Zad2_podsum" />
-        <item itemvalue="Python.r_1" />
-        <item itemvalue="Python.Zad_1_podsumowujace" />
-        <item itemvalue="Python.petla_for" />
+        <item itemvalue="Python.Homework_2" />
+        <item itemvalue="Python.Zad_5_dict" />
+        <item itemvalue="Python.Zad3_2" />
+        <item itemvalue="Python.Zad3_dict" />
+        <item itemvalue="Python.list_col_arr" />
       </list>
     </recent_temporary>
   </component>
