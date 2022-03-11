@@ -44,6 +44,7 @@ while koniec:
             punkty1 += 1
             print("Nożyce się stępiły "), checkpoint()
 
+
         if punkty2 == r_1:
             print("przegrałeś "), checkpoint()
             break
