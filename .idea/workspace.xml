@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/04_collection/Homework_Tuple_Zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_collection/Homework_dict_Zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_collection/Homework_list_Zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_collection/Homework_list_Zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_collection/Homework_set_zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/Homework_Zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/Homework_Zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/calendar_xmas_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/card_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/christmas_tree_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/credit_card_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/max_another.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_function/shorter_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/hangman_checked.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/hangman_game_inprogress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/hangman_json_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/hangman_my_corrected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/ksiazkaadresowa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton/password_json_detail.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_flow/Homework_zad3_podsumowujace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_collection/Homework_Zad8.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_collection/Homework_Zad8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_collection/Homework_zad2_krotka.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_collection/Homework_zad2_krotka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -44,8 +66,8 @@
       <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Homework_Zad8">
-    <configuration name="Homework_Zad4_do_pkt_3gra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homewor_dict_Zad4">
+    <configuration name="Homewor_dict_Zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +75,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_Zad4_do_pkt_3gra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_collection/Homewor_dict_Zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework_Tuple_Zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_collection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_collection/Homework_Tuple_Zad3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_game4_full" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_dict_Zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_game4_full.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_collection/Homework_dict_Zad2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_game5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad1_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,32 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_flow/Homework_game5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bmizad_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/bmizad_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_collection/Zad1_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Homewor_dict_Zad4" />
+        <item itemvalue="Python.Homework_dict_Zad2" />
+        <item itemvalue="Python.Zad1_dict" />
+        <item itemvalue="Python.Homework_Tuple_Zad3" />
         <item itemvalue="Python.Homework_Zad8" />
-        <item itemvalue="Python.Homework_Zad4_do_pkt_3gra" />
-        <item itemvalue="Python.Homework_game5" />
-        <item itemvalue="Python.Homework_game4_full" />
-        <item itemvalue="Python.bmizad_1" />
       </list>
     </recent_temporary>
   </component>
