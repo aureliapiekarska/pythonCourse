@@ -21,7 +21,6 @@ while turns > 0:
 
     guess = input('Podaj litere,lub cale haslo jesli juz je znasz:')
 
-    used_letters = used_letters + guess
 
     if not guess == used_letters:
         turns -= 1
