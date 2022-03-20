@@ -1,30 +1,29 @@
 import random
 
-num = random.randint(1, 20)
-count = 0
-
-
-def take_input():
-    guess = int(input('Podaj liczbe'))
-    if (guess >= 0 and guess <= 20):
-        return guess
+def guess_game():
+    number = random.randint (1, 10)
+    guess_taken = 0
+    guess = int(input('Podaj liczbe: '))
+    guess_taken = guess_taken + 1
+    if guess < number:
+        if (number - guess) < 3:
+                print ('Cieplo')
+        else:
+            print ('Zimno')
+    elif guess > number:
+        if (guess - number) < 3:
+            print ('Cieplo')
+        else:
+            print ('Zimno')
     else:
-        print("Nie udalo sie")
-        return guess
-        take_input()
+        print('Udalo sie')
+
+turns=8
+
+while turns > 0:
+    guess_game()
+else:
+    guess=turns
+    print('Brawo')
 
 
-guess = take_input()
-
-while (num != guess):
-    if (num < (guess + 5) and num > (guess - 5)):
-        print('cieplo')
-        guess = take_input()
-        count = count + 1
-    else:
-        print('zimno')
-        ans = take_input()
-        count = count + 1
-
-if count == 0:
-    print('Zgadles')
