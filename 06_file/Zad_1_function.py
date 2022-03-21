@@ -5,7 +5,6 @@ import random
 def get_quotes():
     with open('quotes.txt') as fopen:
         quotes = fopen.readlines()
-
     return quotes
 
 
@@ -18,11 +17,9 @@ def show(content):
     print('Quote of the day: \n')
     print(width * '*')
     print(quote[0].center(width))
-    print(quote[1].center(width))
     print(width * '*')
 
 
 # main code
-
 quotes_list = get_quotes()
 show(quotes_list)
