@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_function/Homework_Zad_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/01/bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/01/main_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/05/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/07/fibonacciego.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/07/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_modules/zdrowie/zdrowie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_function/Homework_Zad_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/Homework_Zad_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_function/Zad_1_podrecznik.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/Zad_1_podrecznik.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_function/shorter_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/shorter_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_file/Zad_1_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Zad_1_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_file/quotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/quotes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_function/Homework_Zad_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/Homework_Zad_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +45,7 @@
       <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Homework_Zad_10">
+  <component name="RunManager" selected="Python.Homework_Zad_9">
     <configuration name="Homework_Zad_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +59,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_function/Homework_Zad_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework_Zad_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_function/Homework_Zad_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,34 +151,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_modules/05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_modules/05/square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Homework_Zad_9" />
         <item itemvalue="Python.Homework_Zad_10" />
         <item itemvalue="Python.Zad_1_function" />
         <item itemvalue="Python.Zad_8" />
         <item itemvalue="Python.Zad_5" />
-        <item itemvalue="Python.square" />
       </list>
     </recent_temporary>
   </component>
