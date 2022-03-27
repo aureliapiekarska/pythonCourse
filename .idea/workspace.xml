@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/amercianexpress.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/card.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/visa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/bmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/main_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/nadwaga.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/niedowaga.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/norma.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_5/otylosc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/Zad_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/cyt_Zad_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_directory/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_function/Homework_Zad_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/Homework_Zad_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_function/Homework_Zad_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_function/Homework_Zad_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_6/amercianexpress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_6/card.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/card.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_6/mastercard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/mastercard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_6/visa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_6/visa.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +56,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_directory" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08_directory" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/07_modules/01" />
       <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="Homework_Zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_file/Homework_Zad2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_directory/Zad_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_Zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zad_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_file/Homework_Zad3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_directory/Zad_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_Zad_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="antigravity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,32 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_file" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_file/Homework_Zad_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Zad_1_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_file/Zad_1_function.py" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/antigravity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_directory/Zad_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_directory/Zad_5/main_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.Homework_Zad3" />
-        <item itemvalue="Python.Homework_Zad_4" />
-        <item itemvalue="Python.Zad_1_function" />
-        <item itemvalue="Python.Homework_Zad2" />
+        <item itemvalue="Python.antigravity" />
+        <item itemvalue="Python.Zad_8" />
+        <item itemvalue="Python.main_file" />
+        <item itemvalue="Python.Zad_1" />
       </list>
     </recent_temporary>
   </component>
