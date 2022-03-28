@@ -6,19 +6,17 @@ print('Haslo sklada sie z ', counter, 'liter.')
 turns = 6
 print('Masz', turns, 'prob, aby odgadnac haslo')
 
-def game(turns):
-
-
+def game(user_guess):
+    turns=6
     user_guess = []
     for i in range(counter):
         user_guess.append('_')
 
-    print(user_guess)
 
     used_letters = ''
 
     while turns > 0:
-        to_show = '_'.join(user_guess)
+        to_show = user_guess
         print(to_show)
         guess = input('Podaj litere,lub cale haslo jesli juz je znasz:')
         guess = guess.lower()
@@ -42,4 +40,5 @@ def game(turns):
         print('Zostało Ci prób ->', turns)
         print('Podaj kolejna litere')
 
+turns = 6
 game(turns)
