@@ -1,24 +1,44 @@
-dom = 1
-szkola = 2
-kosciol = 3
-bar = 4
-szpital = 5
-kino = 6
-teatr = 7
+def sum_naturals_for(n):
+    sum_numbers = 0
 
-buildings = ['dom', 'szkola', 'kosciol', 'bar', 'szpital',
-             'kino', 'teatr']
+    for num in range(n + 1):
+        sum_numbers += num
 
-routes = {
-    1: [2, 3, 4],
-    2: [1, 5],
-    3: [1, 4],
-    4: [1, 3, 5],
-    5: [2, 4, 6, 7],
-    6: [3, 5, 7],
-    7: [5, 6]
-}
+    return sum_numbers
 
-for start, neighbourhood in routes.items():
-    for neighbour in neighbourhood:
-        print(buildings[start - 1], '--->', buildings[neighbour - 1])
+
+# ------
+def sum_naturals_while(n):
+    sum_numbers = 0
+
+    while n > 0:
+        sum_numbers += n
+        n = n - 1
+
+    return sum_numbers
+
+
+# ------
+
+def sum_naturals_recursion(n):
+    if n == 1:
+        return 1
+    else:
+        return n + sum_naturals_recursion(n - 1)
+
+
+def main():
+    # result1 = sum_naturals_for(10)
+    # print('---')
+    # print('for', result1)
+
+    # result2 = sum_naturals_while(10)
+    # print('---')
+    # print('while', result2)
+
+    result3 = sum_naturals_recursion(10)
+    print('recursion', result3)
+
+
+if __name__ == '__main__':
+    main()

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09_algor/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_algor/task_from_ppt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_directory/Zad_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_directory/Zad_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_modules/Homework_Zad_3/open_mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_modules/Homework_Zad_3/open_mod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_algor/task_from_ppt.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_algor/task_from_ppt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.count">
+  <component name="RunManager" selected="Python.open_mod">
     <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.count" />
         <item itemvalue="Python.open_mod" />
+        <item itemvalue="Python.count" />
         <item itemvalue="Python.e-mail" />
         <item itemvalue="Python.check" />
         <item itemvalue="Python.delta" />
