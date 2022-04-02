@@ -1,4 +1,5 @@
 import random
+
 with open('pass.txt', 'r') as fopen:
     lines = fopen.readlines()
 
