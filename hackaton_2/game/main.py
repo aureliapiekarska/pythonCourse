@@ -1,5 +1,5 @@
 import random
-with open('password.txt', 'r') as fopen:
+with open('pass.txt', 'r') as fopen:
     lines = fopen.readlines()
 
 word_guess = random.choice(lines).strip()
@@ -13,6 +13,7 @@ print('Masz', 6, 'prob, aby odgadnac haslo')
 def game(user_guess):
     turns=6
     user_guess = []
+    used_letter = []
     for i in range(counter):
         user_guess.append('_')
 
@@ -30,15 +31,27 @@ def game(user_guess):
             break
 
         if guess in word_guess:
+            turns -=1
             for index in range(counter):
                 if word_guess[index] == guess:
                     user_guess[index] = guess
 
-        else:
-            print('Nie ma tej litery w słowie')
+
+        if not guess in word_guess:
             turns -= 1
-            if turns == 0:
+            used_letter.append(guess)
+            print('Uzyte litery',used_letter)
+
+            for i in used_letter:
+                if i in used_letter:
+                    print('Nie mozesz uzyc tej litery ')
+                else:
+                    print('dupa')
+
+
+        if turns == 0:
                 print('Koniec gry')
+                break
 
         print('Zostało Ci prób ->', turns)
         print('Podaj kolejna litere')

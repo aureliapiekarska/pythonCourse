@@ -1,40 +1,35 @@
 word_guess = 'slava'
-counter = len(word_guess)
-
-user_guess = []
-for i in range(counter):
-    user_guess.append('_')
-
-print(user_guess)
-
 used_letters = ''
-gamer = input('Jak masz na imię drogi graczu? -> ')
+gamer = input('Jak masz na imię drogi graczu?')
 print('Witam w grze wisielec', gamer)
-print('Haslo sklada sie z ', counter, 'liter.')
+print('Haslo sklada sie z ', 5, 'liter.')
 turns = 6
 print('Masz', turns, 'prob, aby odgadnac haslo')
 
 while turns > 0:
-    to_show = '_'.join(user_guess)
-    print(to_show)
-    guess = input('Podaj litere,lub cale haslo jesli juz je znasz:')
-    guess = guess.lower()
+    count = 0
+    for letter in word_guess:
+        if letter in used_letters:
+            print(letter)
+        else:
+            print('-')
+            count += 1
 
-    if guess == word_guess:
-        print('Wygrana! to jest to słowo:', guess)
+    if count == 0:
+        print('Brawo zgadles')
         break
 
-    if guess in word_guess:
-        for index in range(counter):
-            if word_guess[index] == guess:
-                user_guess[index] = guess
+    guess = input('Podaj litere,lub cale haslo jesli juz je znasz:')
 
-    else:
-        print('Nie ma tej litery w słowie')
+    used_letters = used_letters + guess
+
+    if not guess == used_letters:
         turns -= 1
         if turns == 0:
             print('Koniec gry')
             break
+        if guess == word_guess:
+            print('Wygrana! to jest to słowo:', guess)
+            break
 
-        print('Zostało Ci prób ->', turns)
         print('Podaj kolejna litere')
