@@ -52,13 +52,9 @@ def game(user_guess):
 
 
         if turns == 0:
-            print("_________")
-            print("|	 |")
-            print("|	 O")
-            print("|	\|/")
-            print("|	 |")
-            print("|	/ \ ")
-            print("|________           YOU ARE DEAD ")
+            import color
+            colored_text = color.colored(255, 0, 0,'')
+            print(colored_text)
             print('Koniec gry')
             break
         elif turns == 5:
