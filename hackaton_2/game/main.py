@@ -26,6 +26,8 @@ def game(user_guess):
         guess = input('Podaj litere,lub cale haslo jesli juz je znasz:')
         guess = guess.lower()
 
+
+
         if guess == word_guess:
             print('Wygrana! to jest to słowo:', guess)
             break
@@ -36,22 +38,68 @@ def game(user_guess):
                 if word_guess[index] == guess:
                     user_guess[index] = guess
 
+        if guess in used_letter:
+                print('Ta litera  zostala juz uzyta')
+
 
         if not guess in word_guess:
             turns -= 1
             used_letter.append(guess)
-            print('Uzyte litery',used_letter)
-
-            for i in used_letter:
-                if i in used_letter:
-                    print('Nie mozesz uzyc tej litery ')
-                else:
-                    print('dupa')
+            used_letter
+            set_used_letter=set(used_letter)
+            print('Uzyte litery',set_used_letter)
 
 
         if turns == 0:
-                print('Koniec gry')
-                break
+            print("_________")
+            print("|	 |")
+            print("|	 O")
+            print("|	\|/")
+            print("|	 |")
+            print("|	/ \ ")
+            print("|________           YOU ARE DEAD ")
+            print('Koniec gry')
+            break
+        elif turns == 5:
+            print("_________")
+            print("|	 |")
+            print("|	    ")
+            print("|	   ")
+            print("|	  ")
+            print("|	   ")
+            print("|________")
+        elif turns == 4:
+            print("_________")
+            print("|	 |")
+            print("|	 0  ")
+            print("|	   ")
+            print("|	  ")
+            print("|	   ")
+            print("|________")
+        elif turns == 3:
+            print("_________")
+            print("|	 |")
+            print("|	 0  ")
+            print("|	 |")
+            print("|	 |")
+            print("|	   ")
+            print("|________")
+        elif turns == 2:
+            print("_________")
+            print("|	 |")
+            print("|	 0  ")
+            print("|	\|")
+            print("|	 |")
+            print("|	   ")
+            print("|________")
+        elif turns == 1:
+            print("_________")
+            print("|	 |")
+            print("|	 0  ")
+            print("|	\|")
+            print("|	 |")
+            print("|	/ ")
+            print("|________")
 
         print('Zostało Ci prób ->', turns)
         print('Podaj kolejna litere')
