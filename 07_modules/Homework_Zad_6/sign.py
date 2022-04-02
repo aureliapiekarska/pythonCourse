@@ -1,6 +1,6 @@
 def game():
 
-    word_guess = 'banannnnannnnnnnnnanananananaaaana'
+    word_guess = 'banannnna'
 
     duplicates = {}
 

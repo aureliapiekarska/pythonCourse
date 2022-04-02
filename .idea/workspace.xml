@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hackaton_2/hangman_upgrade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_modules/07/fibonacciego.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_modules/07/fibonacciego.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_file/Homework_Zad_7/pass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06_file/Homework_Zad_7/pass.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_modules/Homework_Zad_6/sign.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_modules/Homework_Zad_6/sign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/hackaton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/hangman_checked.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/hangman_game_inprogress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/hangman_json_c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/hangman_my_corrected.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/ksiazkaadresowa_dodokonczenia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton/password_json_detail.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +61,8 @@
       <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.script">
-    <configuration name="Zad_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hangman_upgrade">
+    <configuration name="Homework_Zad_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_OOP_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_OOP_intro/Zad_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_function/Homework_Zad_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacciego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hangman_upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_modules/07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackaton_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_modules/07/fibonacciego.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackaton_2/hangman/hangman_upgrade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_modules/Homework_Zad4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_file/Homework_Zad_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_modules/Homework_Zad4/module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_file/Homework_Zad_7/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.script" />
-        <item itemvalue="Python.fibonacciego" />
+        <item itemvalue="Python.hangman_upgrade" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.sign" />
-        <item itemvalue="Python.module" />
-        <item itemvalue="Python.Zad_5" />
+        <item itemvalue="Python.Homework_Zad_10" />
+        <item itemvalue="Python.script" />
       </list>
     </recent_temporary>
   </component>

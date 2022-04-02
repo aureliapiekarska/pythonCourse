@@ -1,5 +1,5 @@
 import random
-with open('pass.txt', 'r') as fopen:
+with open('password.txt', 'r') as fopen:
     lines = fopen.readlines()
 
 word_guess = random.choice(lines).strip()
@@ -39,7 +39,6 @@ def game(user_guess):
             turns -= 1
             if turns == 0:
                 print('Koniec gry')
-            break
 
         print('Zostało Ci prób ->', turns)
         print('Podaj kolejna litere')
