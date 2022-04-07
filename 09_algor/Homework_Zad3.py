@@ -1,9 +1,9 @@
-x = int(input("Podaj liczbe < 8 : "))
-silnia = 1
+x = int(input('Please provide the number : '))
+strong = 1
 
-if x <= 8:
+if x <= 100000000:
     for x in range(2,x + 1):
-        silnia = silnia * x
-    print(silnia)
+        strong = strong * x
+    print(strong)
 else:
-    print("liczba musi byc <= 8")
+    print('')
