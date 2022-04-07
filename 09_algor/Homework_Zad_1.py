@@ -1,13 +1,21 @@
-def main(a,b):
-    while a != b:
-        if a > b:
-            a = a - b
-        if a < b:
-            b = b - a
-    return a
+def number(i, j):
 
+    if (i == 0):
+
+        return j
+
+    if (j == 0):
+
+        return i
+
+    if (i == j):
+        return i
+
+    if (i > j):
+        return number(i - j, j)
+    return number(i, j - i)
 
 if __name__ == '__main__':
-    a = int(input('Podaj liczbę a : '))
-    b = int(input('Podaj liczbę b : '))
-    print('NWD:', main(a,b))
+    i = int(input('Please provide first number: '))
+    j = int(input('Please provide second number : '))
+    print('GCD is equal to :', number(i,j))
