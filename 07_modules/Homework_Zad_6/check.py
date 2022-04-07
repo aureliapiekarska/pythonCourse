@@ -1,6 +1,6 @@
 import random
 
-def main():
+def choice():
     x = range(10)
     y = random.choices(x,k= 10)
     additional_number = random.choice(y)
@@ -20,4 +20,4 @@ def generator():
 
 
 if __name__ == "__main__":
-    main()
+    choice()
