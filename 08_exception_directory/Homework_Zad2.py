@@ -1,6 +1,6 @@
 tup = (13,'dodo',{'aksolot',5},[1,1,1,1,1,1,1,])
 
-def main():
+def replacement():
     try:
         index = int(input("Provide index: "))
 
@@ -14,4 +14,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    replacement()
