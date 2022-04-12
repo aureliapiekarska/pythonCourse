@@ -3,6 +3,7 @@
 	padding-left: 100px;
 	padding-right: 100px;
 	text-align: left;
+    background: linear-gradient(to bottom, #fff1eb 0%, #ace0f9 100%)
 }
 
 h1 {
@@ -18,10 +19,6 @@ th, td , table {
 	width: 20%;
 	border: 1px solid black;
 	border-collapse: collapse;
-}
-
-tr:nth-child(even) {
-	background-color: #e1e2f7;
 }
 
 
