@@ -10,28 +10,31 @@
 
 <h1><center>BMI Calculator</center></h1>
 
-<body>
+<body >
 
-<div class="main">
+<div>
 	<form class="pure-form" method="POST" action="/">
-		<center>Age in years:</center><br>
+		<h2><center>Age in years:</center><br>
 		<center><input type="text" name="age"></center><br>
 		<center>Weight in kgs:</center><br>
 		<center><input type="text" name="weight"></center><br>
 		<center>Height in cms:</center><br>
 		<center><input type="text" name="height"></center><br>
 		<center><button type="submit" class="pure-button pure-button-primary" value="Submit">Submit</button></center>
+
 	</form>
+	</h2>
 </div>
 
 <br>
 
-<div class="main">
+<div2>
+
 	{% if bmi %}
 	    <p>
         {% print("Your BMI is {}.".format(bmi)) %}
         </p>
 	{% endif %}
-</div>
+</div2>
 
 </body>

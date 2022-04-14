@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/09_algor/Homework_Zad_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/templates/bmi_calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/bmi_calc.html" afterDir="false" />
@@ -50,15 +51,15 @@
       <recent name="$PROJECT_DIR$/08_directory" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/templates" />
       <recent name="$PROJECT_DIR$/hackaton_2/hangman" />
       <recent name="$PROJECT_DIR$/10_OOP_intro" />
       <recent name="$PROJECT_DIR$/07_modules/Homework_Zad4" />
       <recent name="$PROJECT_DIR$/07_modules/01" />
-      <recent name="$PROJECT_DIR$/04_collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
-    <configuration name="Zad_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework_Zad_4">
+    <configuration name="Homework_Zad_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_OOP_decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_algor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_OOP_decorator/Zad_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_algor/Homework_Zad_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Homework_Zad_4" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.static method" />
         <item itemvalue="Python.student" />
-        <item itemvalue="Python.Zad_1" />
       </list>
     </recent_temporary>
   </component>
