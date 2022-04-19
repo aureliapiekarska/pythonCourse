@@ -5,4 +5,4 @@ Nastepnie do funkcje ulepszylam:
 -na koncu dodlam obrazki wisielca dla 6 rund
 -stworzylam modul kolorujacy
 -importowalam modul kolorujacy do ostatniwj proby(turns==0)
--koc dziala
+-kod dziala
