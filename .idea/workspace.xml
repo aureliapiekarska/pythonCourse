@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/templates/bmi_calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/templates/bmi_calc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/folder bez nazwy" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
