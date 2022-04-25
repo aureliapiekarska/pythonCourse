@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 
 app = FastAPI()
+
 app.counter = 0
 
 @app.get("/")
