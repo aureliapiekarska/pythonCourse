@@ -11,19 +11,16 @@
 <h1><center>BMI Calculator</center></h1>
 
 <body >
-<div id="navlist"><left>
-        <a href="#">Welcome to my page</a>
-
 
 <div>
 	<form class="pure-form" method="POST" action="/">
 		<h2><center>Age in years:</center><br>
-		<center><input type="text" name="age"></center><br>
+			<center><input type="number" name="age" value="122"></center>
 		<center>Weight in kgs:</center><br>
 		<center><input type="text" name="weight"></center><br>
 		<center>Height in cms:</center><br>
 		<center><input type="text" name="height"></center><br>
-			<center>PAL: choose 1-5:
+			<center>PAL: choose 1-4:
 				<p>1) 1 – Physically inactive person.</p>
 				<p>2) 1.5– Low physical activity.
 				<div><img src="{{url_for('static', filename='1.jpg')}}" align="middle"
@@ -41,11 +38,11 @@
      			height="200"/>
 				</div></p></center>
 
-		<center><input type="text" name="pal"></center><br>
+
+		<center><input type="number" name="pal" value="4"></center><br>
 		<center><button type="submit" class="pure-button pure-button-primary" value="Submit">Submit</button></center>
 
-	</form>
-	</h2>
+	</h2></form>
 </div>
 
 <br>

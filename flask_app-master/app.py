@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 
+
 app = Flask(__name__)
 
 # BMR = 655 + (9,6 × waga w kg) + (1,8 × wysokość w cm) - (4,7 × wiek w latach) x PAL
@@ -56,14 +57,6 @@ def get_cpm(cpm):
     else:
         return 'You need special diet'
 
-#
-# def show_advice(state):
-#     filename = state + '.txt'
-#     with open(filename) as fopen:
-#         content = fopen.read()
-#
-#     print('----Twoja porada:')
-#     print(content)
 
 
 def calc_calo(weight, height, age, pal):
@@ -71,8 +64,8 @@ def calc_calo(weight, height, age, pal):
     return cpm
 
 
-def get_bmi_value(w, h):
-    bmi_result = calc_bmi(w, h)
+def get_bmi_value(weight, height):
+    bmi_result = calc_bmi(weight, height)
     bmi_status = get_state(bmi_result)
     return bmi_status
 
