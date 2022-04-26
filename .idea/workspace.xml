@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-master/templates/bmi_calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-master/templates/bmi_calc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/static/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/static/2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/static/3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-master/templates/bmi_calc.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

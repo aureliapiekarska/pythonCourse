@@ -3,13 +3,6 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-# BMR = 655 + (9,6 × waga w kg) + (1,8 × wysokość w cm) - (4,7 × wiek w latach) x PAL
-# PAL współczynik aktywnosći fizycznej
-
-# PAL: 1 Osoba leżąca / brak aktywności fizycznej. 1,4 -1,69 – Siedzący tryb życia plus spacery
-# lub sporadyczne ćwiczenia fizyczne 1-3x w tygodniu bądź ich brak – Niska aktywność fizyczna.
-# 1,7 – 1,99 – Praca fizyczna / Praca siedząca i godzina treningu (np.
-
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -81,11 +74,6 @@ def choose_pal():
         pal = int(request.form.get('pal'))
         return pal
 
-
-# def get_cpm_value(weight, height, age, pal):
-#     cpm_result = calc_calo(weight, height, age, pal)
-#     cpm_status = get_cpm(cpm_result)
-#     show_advice(cpm_status)
 
 
 
