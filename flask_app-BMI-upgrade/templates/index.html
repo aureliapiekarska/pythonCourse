@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <header>
+      <div class="topnav">
+        <h1 class="logo">AP HEALTH WEB APP</h1>
+          <ul class="menu">
+              <a href="{{ url_for ('bmit')}}">BMI</a>
+
+              <a href="{{ url_for ('cpmi')}}">CPM</a>
+          </ul>
+      </div>
+    </header>
+    <div class="container">
+      {% block content %}
+      {% endblock %}
+    </div>
+  </body>

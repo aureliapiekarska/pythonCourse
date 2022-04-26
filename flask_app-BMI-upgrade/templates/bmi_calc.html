@@ -1,0 +1,47 @@
+{% extends "index.html" %}
+{% block content %}
+
+<h1><center>BMI Calculator</center></h1>
+
+<div>
+	<form class="pure-form" method="POST" action="/">
+		<center>Weight in kgs:</center><br>
+		<center><input type="text" name="weight"></center><br>
+		<center>Height in cms:</center><br>
+		<center><input type="text" name="height"></center><br>
+
+		<center><button type="submit" class="pure-button pure-button-primary" value="Submit">Submit</button></center>
+
+	</h2></form>
+</div>
+
+<br>
+
+<table>
+<div2><center>
+
+
+	{% if bmi %}
+	    <p>
+        {% print("Your BMI is {}.".format(bmi)) %}
+        </p>
+	{% endif %}
+
+
+</center></div2></table>
+<br>
+
+<table>
+<div2><center>
+
+
+	{% if bmi %}
+	    <p>
+        {% print("Your BMI value is {}.".format(bmi_value)) %}
+        </p>
+	{% endif %}
+
+	</center></div2></table>
+<br>
+
+{% endblock %}
