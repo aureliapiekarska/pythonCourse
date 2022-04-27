@@ -1,15 +1,38 @@
 {% extends "index.html" %}
 {% block content %}
 
-<h1><center>BMI Calculator</center></h1>
+<h1><center>Health Calculator</center></h1>
+
+<body >
 
 <div>
 	<form class="pure-form" method="POST" action="/">
+		<h2><center>Age in years:</center><br>
+			<center><input type="number" name="age" value="122"></center>
 		<center>Weight in kgs:</center><br>
 		<center><input type="text" name="weight"></center><br>
 		<center>Height in cms:</center><br>
 		<center><input type="text" name="height"></center><br>
+			<center>PAL: choose 1-4:
+				<p>1) 1 – Physically inactive person.</p>
+				<p>2) 1.5– Low physical activity.
+				<div><img src="{{url_for('static', filename='1.jpg')}}" align="middle"
+				width="140"
+     			height="200"/>
+				</div></p>
+				<p>3) 1.8 - Moderate physical activity
+				<div><img src="{{url_for('static', filename='2.jpg')}}" align="middle"
+				width="140"
+     			height="200"/>
+				</div></p>
+				<p>4) 2.2 -High physical activity <br>
+				<div><img src="{{url_for('static', filename='3.jpg')}}" align="middle"
+				width="140"
+     			height="200"/>
+				</div></p></center>
 
+
+		<center><input type="number" name="pal" value="4"></center><br>
 		<center><button type="submit" class="pure-button pure-button-primary" value="Submit">Submit</button></center>
 
 	</h2></form>
@@ -31,9 +54,7 @@
 </center></div2></table>
 <br>
 
-<table>
 <div2><center>
-
 
 	{% if bmi %}
 	    <p>
@@ -41,7 +62,33 @@
         </p>
 	{% endif %}
 
-	</center></div2></table>
+
+</center></div2>
 <br>
 
+<div2><center>
+
+	{% if cpm %}
+	    <p>
+        {% print("Your CPM is {} kcal.".format(cpm)) %}
+        </p>
+	{% endif %}
+
+
+</center></div2>
+<br>
+
+<div2><center>
+
+	{% if cpm_value %}
+	    <p>
+        {% print("You need diet {} kcal.".format(cpm_value)) %}
+        </p>
+	{% endif %}
+
+
+</center></div2>
+
+<br>
+</body>
 {% endblock %}

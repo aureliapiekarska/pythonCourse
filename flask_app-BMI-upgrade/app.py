@@ -3,6 +3,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     bmi = ''
@@ -18,34 +19,11 @@ def index():
         bmi_value = get_bmi_value(weight, height)
         cpm = calc_calo(weight, height, age, pal)
         cpm_value = get_cpm(cpm)
-    return render_template("index.html", bmi=bmi, bmi_value=bmi_value, cpm=cpm, cpm_value=cpm_value)
+    return render_template("bmi_calc.html", bmi=bmi, bmi_value=bmi_value, cpm=cpm, cpm_value=cpm_value)
 
-@app.route("/bmi", methods=['GET', 'POST'])
-def bmit():
-    bmi = ''
-    bmi_value = ''
-    if request.method == 'POST' and 'weight' in request.form:
-        weight = float(request.form.get('weight'))
-        height = float(request.form.get('height'))
-        bmi = calc_bmi(weight, height)
-        bmi_value = get_bmi_value(weight, height)
-    return render_template("bmi_calc.html", bmi=bmi, bmi_value=bmi_value)
-
-@app.route("/cpm", methods=['GET', 'POST'])
-def cpmi():
-    cpm = ''
-    cpm_value = ''
-    if request.method == 'POST' and 'weight' in request.form:
-        weight = float(request.form.get('weight'))
-        height = float(request.form.get('height'))
-        age = float(request.form.get('age'))
-        pal = float(request.form.get('pal'))
-        cpm = calc_calo(weight, height, age, pal)
-        cpm_value = get_cpm(cpm)
-    return render_template("cpm.html", cpm=cpm, cpm_value=cpm_value)
-
-
-
+@app.route('/index')
+def home():
+    return render_template("home.html")
 
 def calc_bmi(weight, height):
     return round((weight / ((height / 100) ** 2)), 2)

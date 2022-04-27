@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6b355d-7c20-474a-9dae-7999084307c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app-BMI/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-BMI/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-BMI-upgrade/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-BMI-upgrade/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/bmi_calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/bmi_calc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/cpm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app-BMI-upgrade/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
