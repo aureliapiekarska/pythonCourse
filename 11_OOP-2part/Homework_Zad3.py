@@ -1,17 +1,16 @@
-class pen():
+class Pen():
     def pen(self):
         print('Write the word')
 
-class pinapple():
+class Pinapple():
     def pinapple(self):
         print('Pinapple')
 
 
-class penpinapple(pen, pinapple):
+class Penpinapple(Pen, Pinapple):
     def pinapplepen(self):
         print('Pinapple consist of the word apple')
 
-
-penpinapple_1 = penpinapple().pen()
-penpinapple_2 = penpinapple().pinapple()
-penpinapple_3 = penpinapple().pinapplepen()
+Penpinapple().pen()
+Penpinapple().pinapple()
+Penpinapple().pinapplepen()
